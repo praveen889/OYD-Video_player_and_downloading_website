@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.main{
+    background-color:  #F8F6F0 ;
+}
+.Body{
+    background-color:  #F8F6F0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navbar{
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 8%;
+    width:100%;
+}
+
+h6.Navtitle{
+    margin-right: 20px;
+    font-size: 20px;
+}
+.Body2{
+    background-color:  #F8F6F0;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Tabs{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.nav_title{
+    text-decoration-color: #F8F6F0;
+}
+.pagination{
+    background-color:  #F8F6F0;
+    justify-content: center;
+}
+p.card-title{
+    font-size: 14px;
+    text-decoration-color:  #F8F6F0;
+    border: none;
+    border-radius: 10px;
+}
+.logoL{
+    display: inline-flex;
+
+}
+.card-body{
+    color: #00664d;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+}
+.card{
+    border: none;
+}
+.btn_1{
+    font-size: 14px;
+    text-decoration: none;
+}
+
